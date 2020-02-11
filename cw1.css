@@ -1,0 +1,47 @@
+body{
+h1 Item1 h1
+
+.container {
+    display: grid;
+ grid-template-colums: 
+}
+
+
+
+
+        <article> ipsum dolor sit amet consectetur, adipisicing elit. Nulla veritatis ratione, provident neque sint modi
+            vero consequatur nemo cum veniam fuga ut quia eius laboriosam asperiores est commodi! Quos, voluptates?
+            ipsum dolor sit amet consectetur, adipisicing elit. Nulla veritatis ratione, provident neque sint modi vero
+            consequatur nemo cum veniam fuga ut quia eius laboriosam asperiores est commodi! Quos, voluptates?
+            ipsum dolor sit amet consectetur, adipisicing elit. Nulla veritatis ratione, provident neque sint modi vero
+            consequatur nemo cum veniam fuga ut quia eius laboriosam asperiores est commodi! Quos, voluptates?<article>
+
+
+                <aside>
+
+                </aside>
+
+                <footer>
+
+                </footer>
+                
+
+
+
+
+
+
+
+}
+header{
+
+
+}
+aside{
+
+}
+.container { 
+    display: grid;
+    grid-template-areas:header ;
+
+} 
